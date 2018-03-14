@@ -1,0 +1,15 @@
+PODS:
+  - Kingfisher (4.6.3)
+  - LLCycleScrollView (1.4.6):
+    - Kingfisher
+
+DEPENDENCIES:
+  - LLCycleScrollView
+
+SPEC CHECKSUMS:
+  Kingfisher: 98e6d5b5e807645743e8ed5ececd25d688d38452
+  LLCycleScrollView: 2f309d229937b755b3ecc41f39caa8b27bd86fa9
+
+PODFILE CHECKSUM: de63e9038a2e50f708ffe1400fdf1dc20b1a062f
+
+COCOAPODS: 1.4.0
